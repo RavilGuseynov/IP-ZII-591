@@ -1,0 +1,45 @@
+.tasks-list-item {
+    margin: 15px 0;
+}
+
+.item-btn {
+    margin: 0 5px 0 5px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.item-btn-delete {
+    color: red;
+    border: solid red 1px;
+}
+
+    .item-btn-delete:hover {
+        color: white;
+        background-color: red;
+    }
+
+.item-btn-important {
+    color: green;
+    border: solid green 1px;
+}
+
+    .item-btn-important:hover {
+        color: white;
+        background-color: green;
+    }
+
+.item-text {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.text-item-bold {
+    font-weight: bold;
+}
+
+.text-item-done {
+    text-decoration: line-through;
+}

@@ -1,0 +1,14 @@
+#header {
+    background-color: #5181b8;
+    height: 40px;
+    color: aliceblue;
+    font-family: Helvetica, sans-serif;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}

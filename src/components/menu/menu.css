@@ -1,0 +1,21 @@
+.menu {
+    float: left;
+    min-width: 200px;
+}
+
+.list-item {
+    list-style-type: none;
+    margin: 20px 0;
+}
+
+.list-item a:hover {
+    background-color: #5181b8;
+    color: white;
+}
+
+.list-item a {
+    text-decoration: none;
+    color: #5181b8;
+    font-size: 22px;
+    padding: 5px;
+}

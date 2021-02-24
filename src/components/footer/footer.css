@@ -1,0 +1,22 @@
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 200px;
+    background-color: #5181b8;
+    width: 100%;
+}
+
+.footer-personal-items {
+    margin: 20px 0 0 120px;
+    float: left;
+}
+
+.footer-other-items {
+    float: right;
+    margin: 20px 120px 0 0;
+}
+
+.footer-item {
+    color: aliceblue;
+}

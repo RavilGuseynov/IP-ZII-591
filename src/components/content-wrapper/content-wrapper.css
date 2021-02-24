@@ -1,0 +1,8 @@
+.page-container {
+    padding: 5px;
+    margin: 10px 20px 0 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 80%;
+    max-width: 80%;
+}
